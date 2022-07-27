@@ -1,0 +1,17 @@
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Services.deps.json
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Services.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Services.pdb
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Domain.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Domain.pdb
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.csproj.AssemblyReference.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.AssemblyInfoInputs.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.AssemblyInfo.cs
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.csproj.CoreCompileInputs.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.csproj.CopyComplete
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\refint\DProject.Imoveis.Back.Services.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\DProject.Imoveis.Back.Services.pdb
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\obj\Debug\net6.0\ref\DProject.Imoveis.Back.Services.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Utils.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Services\bin\Debug\net6.0\DProject.Imoveis.Back.Utils.pdb

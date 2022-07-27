@@ -1,0 +1,39 @@
+.main {
+    padding: 5% !important;
+  }
+  .select-customn {
+    width: 100% !important;
+    border-color: rgb(231 231 231) !important;
+    border-radius: 5px;
+    padding: 4px;
+  }
+  
+  .btn-pesquisa {
+    width: 100% !important;
+  }
+  
+  .title-desc {
+    font-size: 18px;
+    color: rgb(109, 109, 109);
+  }
+  
+  .div-image {
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    display: inline-block;
+    padding: 10px;
+    -webkit-box-shadow: 5px 5px 2px -1px rgba(100, 100, 100, 0.38);
+    box-shadow: 5px 5px 2px -1px rgba(100, 100, 100, 0.38);
+  }
+
+  .content-imo{
+    margin-top: 40px!important;
+    cursor: pointer;
+  }
+
+
+  .isLoadingContent{
+    margin-top: 65px!important;
+    margin: auto;
+    text-align: center;
+  }

@@ -1,0 +1,12 @@
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\bin\Debug\net6.0\DProject.Imoveis.Back.Utils.deps.json
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\bin\Debug\net6.0\DProject.Imoveis.Back.Utils.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\bin\Debug\net6.0\DProject.Imoveis.Back.Utils.pdb
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.csproj.AssemblyReference.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.AssemblyInfoInputs.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.AssemblyInfo.cs
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.csproj.CoreCompileInputs.cache
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\refint\DProject.Imoveis.Back.Utils.dll
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\DProject.Imoveis.Back.Utils.pdb
+C:\GitHub\DProject.Imoveis\DProject.Imoveis.Back\DProject.Imoveis.Back.Utils\obj\Debug\net6.0\ref\DProject.Imoveis.Back.Utils.dll

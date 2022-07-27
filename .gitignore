@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Api/.local-chromium/Win64-970485/chrome-win
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Api/bin/Debug/net6.0
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Api/Chrome/103.0.5060.134/X64
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Api/obj
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Domain/bin/Debug/net6.0
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Domain/obj
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Infra.IoC/obj
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Infra.IoC/bin/Debug/net6.0
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Services/bin/Debug/net6.0
+/DProject.Imoveis.Back/DProject.Imoveis.Back.Utils/bin/Debug/net6.0

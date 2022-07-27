@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmpOESNs1JPJnZ2KKdMcRlAiLz0ZBLva0/x8ZA9SkrMmOMprjspL8D+lBndh4q1FlajuU3AsBH50K2BUzTJvig==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Services\\DProject.Imoveis.Back.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimor\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
+    "C:\\Users\\dimor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dimor\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

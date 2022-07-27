@@ -1,0 +1,249 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HtmlAgilityPack/1.11.43": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net5.0/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/WebDriver.dll": {}
+        }
+      },
+      "DProject.Imoveis.Back.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DProject.Imoveis.Back.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DProject.Imoveis.Back.Domain.dll": {}
+        }
+      },
+      "DProject.Imoveis.Back.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DProject.Imoveis.Back.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DProject.Imoveis.Back.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlAgilityPack/1.11.43": {
+      "sha512": "C2gpt+S2tdFlQMOC3DK7rHZ8iv6EpDuIo4v0UTUSGX1F1bZ+NAQ3gp77HK8/JfCDszUm3Y2rHoyTp/TpO4KOIA==",
+      "type": "package",
+      "path": "htmlagilitypack/1.11.43",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "htmlagilitypack.1.11.43.nupkg.sha512",
+        "htmlagilitypack.nuspec",
+        "lib/Net35/HtmlAgilityPack.dll",
+        "lib/Net35/HtmlAgilityPack.pdb",
+        "lib/Net35/HtmlAgilityPack.xml",
+        "lib/Net40-client/HtmlAgilityPack.dll",
+        "lib/Net40-client/HtmlAgilityPack.pdb",
+        "lib/Net40-client/HtmlAgilityPack.xml",
+        "lib/Net40/HtmlAgilityPack.XML",
+        "lib/Net40/HtmlAgilityPack.dll",
+        "lib/Net40/HtmlAgilityPack.pdb",
+        "lib/Net45/HtmlAgilityPack.XML",
+        "lib/Net45/HtmlAgilityPack.dll",
+        "lib/Net45/HtmlAgilityPack.pdb",
+        "lib/NetCore45/HtmlAgilityPack.XML",
+        "lib/NetCore45/HtmlAgilityPack.dll",
+        "lib/NetCore45/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.3/HtmlAgilityPack.dll",
+        "lib/netstandard1.3/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.xml",
+        "lib/netstandard1.6/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.6/HtmlAgilityPack.dll",
+        "lib/netstandard1.6/HtmlAgilityPack.pdb",
+        "lib/netstandard1.6/HtmlAgilityPack.xml",
+        "lib/netstandard2.0/HtmlAgilityPack.deps.json",
+        "lib/netstandard2.0/HtmlAgilityPack.dll",
+        "lib/netstandard2.0/HtmlAgilityPack.pdb",
+        "lib/netstandard2.0/HtmlAgilityPack.xml",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.XML",
+        "lib/uap10.0/HtmlAgilityPack.dll",
+        "lib/uap10.0/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.pri"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Selenium.WebDriver/4.3.0": {
+      "sha512": "dDRbNrpzmII+ZnPLJF7ka2nygR/jnY0BfIl2rsyp1TJXQmr2ayv9tzq1ZBwqwRc1LkHC5zFAi1X3yboFWp0j+Q==",
+      "type": "package",
+      "path": "selenium.webdriver/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/net45/WebDriver.dll",
+        "lib/net46/WebDriver.dll",
+        "lib/net47/WebDriver.dll",
+        "lib/net48/WebDriver.dll",
+        "lib/net5.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.1/WebDriver.dll",
+        "selenium.webdriver.4.3.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "DProject.Imoveis.Back.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DProject.Imoveis.Back.Domain/DProject.Imoveis.Back.Domain.csproj",
+      "msbuildProject": "../DProject.Imoveis.Back.Domain/DProject.Imoveis.Back.Domain.csproj"
+    },
+    "DProject.Imoveis.Back.Utils/1.0.0": {
+      "type": "project",
+      "path": "../DProject.Imoveis.Back.Utils/DProject.Imoveis.Back.Utils.csproj",
+      "msbuildProject": "../DProject.Imoveis.Back.Utils/DProject.Imoveis.Back.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DProject.Imoveis.Back.Domain >= 1.0.0",
+      "DProject.Imoveis.Back.Utils >= 1.0.0",
+      "HtmlAgilityPack >= 1.11.43",
+      "Selenium.WebDriver >= 4.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dimor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Services\\DProject.Imoveis.Back.Services.csproj",
+      "projectName": "DProject.Imoveis.Back.Services",
+      "projectPath": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Services\\DProject.Imoveis.Back.Services.csproj",
+      "packagesPath": "C:\\Users\\dimor\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dimor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Domain\\DProject.Imoveis.Back.Domain.csproj": {
+              "projectPath": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Domain\\DProject.Imoveis.Back.Domain.csproj"
+            },
+            "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Utils\\DProject.Imoveis.Back.Utils.csproj": {
+              "projectPath": "C:\\GitHub\\DProject.Imoveis\\DProject.Imoveis.Back\\DProject.Imoveis.Back.Utils\\DProject.Imoveis.Back.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "HtmlAgilityPack": {
+            "target": "Package",
+            "version": "[1.11.43, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
